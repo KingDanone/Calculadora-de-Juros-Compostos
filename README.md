@@ -1,6 +1,6 @@
 # Calculadora de Juros Compostos Pro 🚀
 
-![Preview da Calculadora](link-para-screenshot.png) <!-- Adicione um screenshot depois -->
+![Preview da Calculadora](/img-site/imgDemonstracaoSite.png)
 
 Ferramenta profissional para cálculo de juros compostos e projeção de investimentos com relatórios detalhados e visualizações gráficas. Desenvolvida para investidores e gestores financeiros que precisam de análises precisas e interface moderna.
 
